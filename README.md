@@ -1,3 +1,3 @@
 # viccnsGit_repository
 Viccns Git Repository
-Modified
+Modified -> Dependabot disabled
